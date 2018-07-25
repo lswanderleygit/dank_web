@@ -1,8 +1,8 @@
-<?php 
+<?php
 
 	class Pessoa{
 
-		private $nome = 'Lucas';
+		private $nome = 'Lucass';
 		private $idade = '23';
 		private $peso = '67kg';
 
@@ -15,7 +15,7 @@
 		private function comer(){
 			echo 'estou comendo<br />';
 		}
-	}	
+	}
 
 
 	$pessoa = new Pessoa;
